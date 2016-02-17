@@ -1,6 +1,6 @@
 #active_channel_name {
-  font-family: Slack-Lato,appleLogo,sans-serif;
+  font-family: Slack-Lato,appleLogo,sans-serif !important;
 }
 .message_content {
-  font-family: Slack-Lato,appleLogo,sans-serif;
+  font-family: Slack-Lato,appleLogo,sans-serif !important;
 }
