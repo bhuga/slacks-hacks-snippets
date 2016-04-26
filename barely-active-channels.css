@@ -1,0 +1,3 @@
+.channels_list_holder ul li.unread:not(.muted_channel) a {
+  font-weight: inherit;
+}
