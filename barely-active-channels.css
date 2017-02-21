@@ -1,3 +1,3 @@
-.channels_list_holder ul li.unread:not(.muted_channel) a {
+.channel.unread:not(.muted_channel) button {
   font-weight: inherit !important;
 }
