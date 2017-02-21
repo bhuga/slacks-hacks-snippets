@@ -1,3 +1,6 @@
-.channel.unread:not(.muted_channel) button {
+.channel.unread:not(.muted_channel) button,
+.group.unread:not(.muted_channel) button,
+.member.unread:not(.muted_channel) button,
+.mpim.unread:not(.muted_channel) button {
   font-weight: inherit !important;
 }
