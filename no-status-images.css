@@ -1,3 +1,3 @@
 .message_current_status {
-  display: none;
+  display: none !important;
 }
